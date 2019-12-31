@@ -1,5 +1,5 @@
 # Enron Timeline
 
-Demo: 
+Demo: https://mithileysh.github.io/Enron-Timeline/
 
- Made with particles.js, a lightweight JavaScript library for creating particles
+Made with particles.js, a lightweight JavaScript library for creating particles
