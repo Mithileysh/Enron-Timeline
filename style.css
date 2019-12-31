@@ -1,0 +1,49 @@
+body { 
+  margin: 0; 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+} 
+
+canvas { 
+  display: block; 
+  vertical-align: bottom;
+} 
+
+h1 {
+  left: 11%;
+  top: 10%;
+  color: white;
+  z-index: 3;
+  position: absolute;
+  font-size: 30px;
+}
+
+#particles-js { 
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #4ea9be;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  top: 0;
+  z-index:  2;
+}
+
+.infographic {
+  margin-top: 10%;
+  margin-left: 10%;
+  position: absolute;
+  z-index:  3;
+  text-align: center;
+  height: auto;
+}
+
+line.timeline {
+  stroke-width: 1.5px;
+  stroke: white;
+}
+
+circle.dot {
+  fill: white;
+}
